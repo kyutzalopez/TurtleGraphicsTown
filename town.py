@@ -1,7 +1,3 @@
-
-# new years eve project lol
-# trying to draw with color
-
 import turtle
 
 t = turtle.Turtle()
